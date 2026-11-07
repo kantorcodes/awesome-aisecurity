@@ -93,6 +93,7 @@
 
 - [garak](https://github.com/NVIDIA/garak) - LLM vulnerability scanner probing for jailbreaks, leakage, and safety failures.
 - [LLM Guard](https://github.com/protectai/llm-guard) - Input/output filtering toolkit with regex, classifiers, and secret detectors for LLM apps.
+- [HOL Guard](https://hol.org/guard) - Local-first controls that can ask, allow, or block risky coding-agent actions on supported shell, secret-access, and MCP event surfaces; not a complete prompt-injection defense.
 - [DeepTeam](https://github.com/confident-ai/deepteam) - Red teaming orchestration framework for multi-agent LLM penetration testing.
 - [Giskard](https://github.com/Giskard-AI/giskard-oss) - Evaluation suite catching bias, robustness, and security issues in ML/LLM pipelines.
 - [cyber-security-llm-agents](https://github.com/NVISOsecurity/cyber-security-llm-agents) - AutoGen-based agents for offensive and defensive AI security tasks.
